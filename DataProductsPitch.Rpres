@@ -18,9 +18,7 @@ The very basic example from this project demonstrates that capability of such an
 
 Basic Predictor Plot
 ========================================================
-
-The following plot shows the backbone of the predictin algorithim using the 2 predictor variables from the shiny application
-
+The following plot shows the backbone of the predictin algorithim using the 2 predictor variables from the shiny app
 ```{r, echo=FALSE}
 setwd("C:/Users/Mitch/Desktop/RWD/shiny")
 load("NFL.rda")

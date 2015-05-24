@@ -1,7 +1,7 @@
 Data Products Course Project
 ========================================================
 author: Mitchell O'Neill
-date: Mon May 25 01:11:07 2015
+date: Mon May 25 01:30:03 2015
 
 
 The Pitch
@@ -18,9 +18,7 @@ The very basic example from this project demonstrates that capability of such an
 
 Basic Predictor Plot
 ========================================================
-
-The following plot shows the backbone of the predictin algorithim using the 2 predictor variables from the shiny application
-
+The following plot shows the backbone of the predictin algorithim using the 2 predictor variables from the shiny app
 ![plot of chunk unnamed-chunk-1](DataProductsPitch-figure/unnamed-chunk-1-1.png) 
 
 Final Page
